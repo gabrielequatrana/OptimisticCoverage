@@ -9,7 +9,7 @@ import logic.IntToChar;
 public class TestIntToChar {
 	
 	/*
-	 * Unit testing con interi positivi
+	 * Unit testing con interi positivi e minori di 26 (Uncovered edge cases)
 	 */
 
 	@Test
